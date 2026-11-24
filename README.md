@@ -22,7 +22,7 @@ preview and OpenDRIVE map exploration — all in the browser, with nothing to in
 ## Quick start
 
 1. **Open** [osc2studio.online/app](https://osc2studio.online/app/) — no installation.
-2. **Sign in or continue as a guest.** Guests can edit and validate; the 3D preview needs an account.
+2. **Sign in or continue as a guest.** Guests can edit and validate; the 3D previews (scenes and maps) need an account.
 3. **Write** a scenario — completion and validation run as you type.
 4. **Preview** scenes and maps, then **download** your `.osc` files for simulation.
 
